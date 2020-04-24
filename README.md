@@ -1,10 +1,12 @@
 # bubble-sort
 
-> This is our first Ruby project. In this project, we applied the Ruby basis that we learned during the material provided. We used loops, arrays, method definitions, and array methods.
+> This is our first Ruby project. In this project, we applied the Ruby basis that we learned during the material provided. We used loops, arrays, method definitions, array methods and use of yield.
 
 ![screenshot](http://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif)
 
 ![screenshot](images/screenshot2.png)
+
+![screenshot](images/screenshot3.png)
 
 This project works with any kind of arrays, with repeated numbers, empty arrays, and so on. We were able to include all the necessary dependencies as well.
 
